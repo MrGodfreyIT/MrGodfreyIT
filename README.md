@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Setting Up Windows Active Directory on VirtualBox</b>
+- <b>Setting Up Windows Server 2019 on VirtualBox</b>
   - [Windows Server 2019 - Active Directory Setup](https://github.com/MrGodfreyIT/LABURL)
   - [Windows Server 2019 Setup - File Share Setup](https://github.com/MrGodfreyIT/LABURL)
 
