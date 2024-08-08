@@ -1,9 +1,9 @@
 <h1>Hi, I'm Micah Godfrey! <br/><a href="https://medium.com/@mrgodfrey2014">Blogger</a>, and <a href="https://www.linkedin.com/in/mgodfrey95/">Information Technology Professional</a>
 
 <h2>📜 Certifications and Certificates:</h2>
-  -CompTIA Security+
-  -Certificate in Business and Technology
-  -Google System Administration and IT Infrastructure Services Certificate
+  - CompTIA Security+
+  - Certificate in Business and Technology
+  - Google System Administration and IT Infrastructure Services Certificate
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
